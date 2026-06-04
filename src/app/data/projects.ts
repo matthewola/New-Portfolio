@@ -128,7 +128,7 @@ export const projects: Project[] = [
       'Social Templates - Created Instagram and Facebook content templates',
       'Launch Support - Assisted with brand rollout and marketing materials',
     ],
-    screenshots: 7,
+    screenshots: 10,
   },
   {
     id: 'bitray-app',
